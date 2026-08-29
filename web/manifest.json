@@ -1,11 +1,11 @@
 {
-    "name": "Sidema",
-    "short_name": "Sidema",
+    "name": "SIDEMA",
+    "short_name": "SIDEMA",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#FFFFFF",
     "theme_color": "#1976D2",
-    "description": "A new Flutter project.",
+    "description": "SIDEMA — sistema de descongelado de camarones.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

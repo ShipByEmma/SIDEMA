@@ -1,4 +1,4 @@
-package com.example.gevel_shrimp
+package com.example.sidema
 
 import io.flutter.embedding.android.FlutterActivity
 
